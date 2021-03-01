@@ -17,4 +17,5 @@ The dataset for this competition is a relational set of files describing custome
 <li> Mean F1 score : <b>Source: </b>https://www.kaggle.com/c/instacart-market-basket-analysis/overview</li>
 <li> Confusion matrix : https://en.wikipedia.org/wiki/Confusion_matrix</li>  </ul>
   
-## <span style="background-color: #FFFF00"> For more Detailed explanation you can visit to my medium blog.</span>
+## <span style="background-color: #FFFF00"> For more Detailed explanation you can visit to my medium blog at </span>
+https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FAbhishek-Shaw-Kolkata%2FInstacart-Market-Basket-Analysis.
